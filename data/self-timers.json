@@ -1,32 +1,14 @@
 {
-  "CONTESTED personal timer ": {
+  "contested_personal_timer": {
     "blue_keycards": [
-      {
-        "label": "Terminal 1",
-        "seconds": 900
-      },
-      {
-        "label": "Terminal 2",
-        "seconds": 900
-      },
-      {
-        "label": "Terminal 3",
-        "seconds": 900
-      }
+      { "label": "Terminal 1", "seconds": 900 },
+      { "label": "Terminal 2", "seconds": 900 },
+      { "label": "Terminal 3", "seconds": 900 }
     ],
     "compboards": [
-      {
-        "label": "Tablet 1",
-        "seconds": 1800
-      },
-      {
-        "label": "Tablet 2",
-        "seconds": 1800
-      },
-      {
-        "label": "Tablet 3",
-        "seconds": 1800
-      }
-    ]   
+      { "label": "Tablet 1", "seconds": 1800 },
+      { "label": "Tablet 2", "seconds": 1800 },
+      { "label": "Tablet 3", "seconds": 1800 }
+    ]
   }
 }
