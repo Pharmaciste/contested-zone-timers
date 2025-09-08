@@ -1,6 +1,6 @@
 {
-  "name": "contested-zone-timers",
-  "version": "0.1.0",
+  "name": "czt-clone-template",
+  "version": "0.2.0",
   "private": true,
   "scripts": {
     "dev": "next dev",

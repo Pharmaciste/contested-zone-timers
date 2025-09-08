@@ -2,4 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+:root { color-scheme: light dark; }
 body { @apply bg-zinc-50 text-zinc-900 dark:bg-zinc-900 dark:text-zinc-100; }
+.container { @apply max-w-5xl mx-auto px-4; }
+.card { @apply p-5 rounded-2xl bg-white/80 dark:bg-zinc-900/70 shadow-sm ring-1 ring-zinc-200 dark:ring-zinc-800; }
+.h1 { @apply text-2xl font-bold; } .h2 { @apply text-xl font-semibold; }
+.p { @apply text-sm text-zinc-600 dark:text-zinc-300; }
+.link { @apply underline; }
