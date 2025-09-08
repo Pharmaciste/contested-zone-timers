@@ -1,5 +1,5 @@
 {
-  "checkmate": {
+  "CONTESTED personal timer ": {
     "blue_keycards": [
       {
         "label": "Terminal 1",
@@ -27,66 +27,4 @@
         "label": "Tablet 3",
         "seconds": 1800
       }
-    ]
-  },
-  "orbituary": {
-    "blue_keycards": [
-      {
-        "label": "Terminal 1",
-        "seconds": 900
-      },
-      {
-        "label": "Terminal 2",
-        "seconds": 900
-      }
-    ],
-    "compboards": [
-      {
-        "label": "Tablet 4",
-        "seconds": 1800
-      },
-      {
-        "label": "Tablet 7",
-        "seconds": 1800
-      }
-    ]
-  },
-  "ruin_station": {
-    "keycards": [
-      {
-        "label": "The Crypt",
-        "seconds": 900
-      },
-      {
-        "label": "The Last Resort",
-        "seconds": 900
-      },
-      {
-        "label": "The Wasteland",
-        "seconds": 900
-      }
-    ],
-    "compboards": [
-      {
-        "label": "Tablet 5",
-        "seconds": 1800
-      },
-      {
-        "label": "Tablet 6",
-        "seconds": 1800
-      }
-    ]
-  },
-  "pyam_supvisr": {
-    "red_keycards": [
-      {
-        "label": "-3-4",
-        "seconds": 1800
-      },
-      {
-        "label": "-3-5",
-        "seconds": 1800
-      }
-    ]
-  }
-}
+    
